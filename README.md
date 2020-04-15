@@ -1,2 +1,0 @@
-# plightfieldZoo
-FrontEnd docs
